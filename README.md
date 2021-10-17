@@ -4,3 +4,8 @@
 ## This week
 <img src="https://github.com/DoguD/DoguD/blob/main/images/stat.svg"/>
 
+![DoguD's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogud&count_private=true&show_icons=true)
+
+
+
+
