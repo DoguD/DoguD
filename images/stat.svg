@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-08-23T02:30:56.750277</dc:date>
+    <dc:date>2022-08-24T02:29:23.709059</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -36,19 +36,19 @@ L 582.617634 27.358125
 L 582.617634 128.158125 
 L 51.189062 128.158125 
 z
-" clip-path="url(#pb26e56da05)" style="fill: #aa6746; stroke: #aa6746; stroke-linejoin: miter"/>
+" clip-path="url(#p33938eb03e)" style="fill: #aa6746; stroke: #aa6746; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m89190b7857" d="M 0 0 
+       <path id="ma5f6b4d002" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m89190b7857" x="51.189062" y="77.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma5f6b4d002" x="51.189062" y="77.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -582,7 +582,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pb26e56da05">
+  <clipPath id="p33938eb03e">
    <rect x="51.189062" y="22.318125" width="558" height="110.88"/>
   </clipPath>
  </defs>
