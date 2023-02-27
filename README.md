@@ -2,4 +2,4 @@
 
 ![DoguD's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogud&count_private=true&show_icons=true&theme=transparent)
 
-[![DoguD's weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dogu)](https://github.com/anuraghazra/github-readme-stats)
+[![DoguD's weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dogu&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
